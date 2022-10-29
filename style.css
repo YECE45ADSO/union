@@ -1,0 +1,35 @@
+h4{
+    color:BLUE;
+}
+
+p{
+    color:aqua;
+    background-color: red;
+
+}
+h3{
+    color:green;
+}
+
+h1{
+    color:beige;
+}
+#color-rojo{
+    color: red;
+}
+body{ 
+    background-image: url(https://pbs.twimg.com/media/C257BiJWIAI1sBy.jpg) ;
+    background-repeat: no-repeat;
+    
+}
+.autor{
+    color:azure;
+    background-color:green;
+}
+
+
+
+
+
+
+
